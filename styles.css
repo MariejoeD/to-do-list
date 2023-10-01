@@ -80,17 +80,11 @@ li {
 
     input[type="text"] {
         width: 100%; 
-    }
 
     button {
         width: 100%; 
     }
 
-    li {
-        padding: 10px;
-    }
-
-   
     h1 {
         font-size: 24px;
         margin-bottom: 15px;
@@ -99,5 +93,10 @@ li {
     .date-placeholder {
         font-size: 10px;
         bottom: 5px;
+    }
+
+    ul li {
+        font-size: 14px;
+        padding: 5px;
     }
 }
